@@ -10,6 +10,14 @@ Kotlin + Spring Boot API example project
 - Gradle - `brew install gradle`
 - Kotlin - `brew install kotlin`
 
-### Build
+### Running Project
 
-- `gradle build`
+- Build : `gradle build`
+- Run: `gradle bootrun`
+- Test : `gradle test`
+
+## Documentation
+
+[Spring Boot Tutorial](https://spring.io/guides/tutorials/spring-boot-kotlin/)
+[Gradle](https://docs.gradle.org)
+[Running Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
